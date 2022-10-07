@@ -1,0 +1,19 @@
+Package: traveltimes
+Title: Urban travel time matrices using any and all modes of transport
+Version: 0.0.1
+Authors@R: 
+    person(given = "Mark",
+           family = "Padgham",
+           role = c("aut", "cre"),
+           email = "mark.padgham@email.com")
+Description: Urban travel time matrices using any and all modes of transport.
+License: GPL-3
+URL: https://github.com/UrbanAnalyst/traveltimes
+BugReports: https://github.com/UrbanAnalyst/traveltimes/issues
+Depends: 
+    R (>= 2.10)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Config/testthat/edition: 3
