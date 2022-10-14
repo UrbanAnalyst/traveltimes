@@ -1,0 +1,44 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "traveltimes",
+  "description": "Urban travel time matrices using any and all modes of transport.",
+  "name": "traveltimes: Urban travel time matrices using any and all modes of transport",
+  "codeRepository": "https://github.com/UrbanAnalyst/traveltimes",
+  "issueTracker": "https://github.com/UrbanAnalyst/traveltimes/issues",
+  "license": "https://spdx.org/licenses/GPL-3.0",
+  "version": "0.0.1.002",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "R",
+    "url": "https://r-project.org"
+  },
+  "runtimePlatform": "R version 4.2.1 (2022-06-23)",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Mark",
+      "familyName": "Padgham",
+      "email": "mark.padgham@email.com"
+    }
+  ],
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Mark",
+      "familyName": "Padgham",
+      "email": "mark.padgham@email.com"
+    }
+  ],
+  "softwareRequirements": {
+    "1": {
+      "@type": "SoftwareApplication",
+      "identifier": "R",
+      "name": "R",
+      "version": ">= 2.10"
+    },
+    "SystemRequirements": {}
+  },
+  "fileSize": "0KB",
+  "readme": "https://github.com/UrbanAnalyst/traveltimes/blob/main/README.md"
+}
