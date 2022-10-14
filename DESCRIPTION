@@ -1,6 +1,6 @@
 Package: traveltimes
 Title: Urban travel time matrices using any and all modes of transport
-Version: 0.0.1
+Version: 0.0.1.001
 Authors@R: 
     person(given = "Mark",
            family = "Padgham",
