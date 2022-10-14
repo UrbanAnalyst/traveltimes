@@ -1,3 +1,5 @@
+[![R build status](https://github.com/UrbanAnalyst/traveltimes/workflows/R-CMD-check/badge.svg)](https://github.com/UrbanAnalyst/traveltimes/actions?query=workflow%3AR-CMD-check)
+
 # Traveltimes
 
 Travel time matrices from everywhere to everywhere using any and every mode of
