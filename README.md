@@ -9,4 +9,5 @@ transport, in any combination.
 
 Travel times from everywhere to everywhere measured relative to equivalent
 automobile travel times, including congestion delays at different times of the
-day.
+day. Uses the routing engine from [`m4ra` = Many-to-Many Multi-Modal Routing
+Aggregator](https://github.com/atfutures/m4ra).
